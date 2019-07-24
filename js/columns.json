@@ -1,0 +1,12 @@
+[
+  {"name":"sorting","title":"№","type":"number","style":{"width":80,"maxWidth":80,"text-align": "center"}},
+  {"name":"eventDay","title":"Дата","type":"date", "formatString":"DD.MM.YYYY"},
+  {"name":"eventTitle","title":"Название события", "breakpoints":"xs sm"},
+  {"name":"eventDisplayServiceName","title":"Наименование услуги", "breakpoints":"all"},
+  {"name":"eventMedicalCode","title":"Код ОМС", "breakpoints":"xs sm md"},
+  {"name":"eventAbout","title":"Примечание","breakpoints":"all"},
+  {"name":"eventType","title":"Тип"},
+  {"name":"eventSpecialization","title":"Специализация", "breakpoints":"xs sm"},
+  {"name":"status","title":"Статус", "breakpoints":"xs sm"},
+  {"name":"rec","title":"rec", "visible": false}
+]
